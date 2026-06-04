@@ -1,0 +1,59 @@
+{
+  "siteId": "work-from-home-good-finds",
+  "generatedAt": "2026-06-04T11:36:09.302027",
+  "categories": [
+    "beginner-work-from-home-good-finds",
+    "advanced-work-from-home-good-finds",
+    "tips-work-from-home-good-finds",
+    "history-work-from-home-good-finds",
+    "trending-work-from-home-good-finds",
+    "tutorials-work-from-home-good-finds"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-work-from-home-good-finds",
+      "category_name": "Beginner Work From Home Good Finds"
+    },
+    {
+      "category_slug": "advanced-work-from-home-good-finds",
+      "category_name": "Advanced Work From Home Good Finds"
+    },
+    {
+      "category_slug": "tips-work-from-home-good-finds",
+      "category_name": "Work From Home Good Finds Tips"
+    },
+    {
+      "category_slug": "history-work-from-home-good-finds",
+      "category_name": "Work From Home Good Finds History"
+    },
+    {
+      "category_slug": "trending-work-from-home-good-finds",
+      "category_name": "Trending Work From Home Good Finds"
+    },
+    {
+      "category_slug": "tutorials-work-from-home-good-finds",
+      "category_name": "Work From Home Good Finds Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "work-from-home-good-finds",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Work From Home Good Finds Central",
+    "articles_per_row": 1
+  }
+}
